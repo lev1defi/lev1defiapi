@@ -24,6 +24,8 @@
   "homepage": "https://github.com/lev1defi/lev1defiapi#readme",
   "dependencies": {
     "@noble/secp256k1": "^2.1.0",
+    "axios": "^1.7.7",
+    "crypto": "^1.0.1",
     "tronweb": "^5.2.0"
   }
 }
