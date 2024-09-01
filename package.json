@@ -1,0 +1,29 @@
+{
+  "name": "lev1defiapi",
+  "version": "1.0.0",
+  "description": "Client side api wrapper for quick and easy integration",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lev1defi/lev1defiapi.git"
+  },
+  "keywords": [
+    "lev1defi",
+    "client",
+    "api"
+  ],
+  "author": "lev1defi dev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lev1defi/lev1defiapi/issues"
+  },
+  "homepage": "https://github.com/lev1defi/lev1defiapi#readme",
+  "dependencies": {
+    "@noble/secp256k1": "^2.1.0",
+    "tronweb": "^5.2.0"
+  }
+}
